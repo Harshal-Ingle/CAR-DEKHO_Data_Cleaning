@@ -5,7 +5,6 @@ The raw dataset contains **messy data, unstandardized formats, duplicates, null 
 
 Using **Python (Pandas, Matplotlib, Seaborn)**, the dataset was cleaned and transformed into a **ready-to-analyze format** for further exploration and insights.
 
----
 
 ## Data Cleaning Steps
 - Removed **duplicates**  
@@ -15,7 +14,6 @@ Using **Python (Pandas, Matplotlib, Seaborn)**, the dataset was cleaned and tran
 - Fixed **inconsistencies** in dataset  
 - Created a **clean dataset** for analysis  
 
----
 
 ## Tools & Libraries
 - **Python** (Data Processing)  
@@ -23,17 +21,9 @@ Using **Python (Pandas, Matplotlib, Seaborn)**, the dataset was cleaned and tran
 - **Matplotlib & Seaborn** (Data Visualization for validation)  
 - **Jupyter Notebook** (Code execution & documentation)  
 
----
 
 ## Project Files
 - `car_dekho_data_cleaning.ipynb` → Jupyter Notebook with cleaning process  
 - `CarDekho_raw.csv` → Original raw dataset from Kaggle  
 - `CarDekho_cleaned.csv` → Cleaned dataset ready for analysis  
 - `README.md` → Documentation  
-
----
-
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Harshal-Ingle/CAR-DEKHO_Data_Cleaning
